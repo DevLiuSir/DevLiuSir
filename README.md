@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide=CSS,shell" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide_title=true" />
 
 - 🇨🇳 I’m an iOS & macOS & Python Software Engineer in ShangHai
 - 👨🏻‍💻   I’m currently learning SwiftUI
