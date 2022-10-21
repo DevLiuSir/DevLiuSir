@@ -8,3 +8,5 @@
 - 🔭 I’m currently working on artificial intelligence, neural network
 
 <img src='https://github-readme-stats.vercel.app/api?username=devliusir&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
+
+![](https://komarev.com/ghpvc/?username=devliusir)
