@@ -6,7 +6,7 @@
 
 
 <a align="top">
-<img align="right" width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true" />
+<img align="right" width=35.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true" />
 
 
 <a align="left">
