@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 - 🇨🇳 I’m an iOS & macOS & Python & JavaScript Software Engineer in Beijing
 - 👨🏻‍💻 I’m currently learning SwiftUI
 - 📚 I’m currently reading: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
@@ -8,26 +6,34 @@
 
 
 <a align="top">
-<img align="right" width=36.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true" />
+<img align="right" width=37.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true" />
 
-<p align="left">
+
+<a align="left">
 <img alt="github stats" width=60.5% src="https://github-readme-stats.vercel.app/api?username=devliusir&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
 
-<p align="left">
-<img alt="github stats" width=60.5% src="https://moe-counter.glitch.me/get/@DevLiuSir?theme=gelbooru" />
+
+<a align="left">
+<img alt="GitHub Streak" width="60.5%" src="https://github-readme-streak-stats.herokuapp.com?user=DevLiuSir&hide_border=true&type=svg&bg_color=ffffff"/>
 
 
-<p align="left">
- <img alt="arshiamidos" width=60.5% src="https://github-profile-trophy.vercel.app/?username=DevLiuSir&column=7&theme=orange"/>
+<a align="left">
+<img width="60.5%" src="https://profile-counter.glitch.me/DevLiuSir/count.svg"/>
 
-</p>
 
-</a>
 
 <!-- 多段 注释， 不会在浏览器中显示。
 在需要的位置输入：<br/> ，也同样实现了换行效果 -->
 
-<img alt="github Profile Summary Cards" width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevLiuSir&theme=github&hide_border=true" />
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DevLiuSir&padding=10&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&height=180)
+
+
+<p align="center">
+<img alt="github stats" src="https://moe-counter.glitch.me/get/@DevLiuSir?theme=gelbooru" />
+</p>
+
+
 
 
 #### Platform&Tools
@@ -43,13 +49,6 @@
 [![](https://img.shields.io/badge/iPad-%2012.9%20inch%20iPad%20Pro-red?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Displays-19%20Pro%20Display%20XDR-9146FF?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/AppleTV-Apple%20TV%204K-purple?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DevLiuSir)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liuchuan910927@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/LiuChuan_)
-[![Profile Views](https://komarev.com/ghpvc/?username=DevLiuSir&color=007EEF)](https://github.com/DevLiuSir)
-
 
 
 [![](https://img.shields.io/badge/SwiftUI-orange?labelColor=282c34&logo=swift)](https://developer.apple.com/documentation/swiftui/)
@@ -77,6 +76,39 @@
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DevLiuSir)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liuchuan910927@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/LiuChuan_)
+[![Profile Views](https://komarev.com/ghpvc/?username=DevLiuSir&color=007EEF)](https://github.com/DevLiuSir)
+
+
+<p align="left">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/swift.svg" alt="swift" style="max-width:9%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg" alt="go" style="max-width:100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" style="max-width:100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width:100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg" alt="k8s" style="max-width:100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="leetcode" style="max-width:100%;">
+</p>  
+
+<p align="left">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="phpstorm" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg" alt="goland" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_clion.svg" alt="clion" style="max-width:100%;">
+</p> 
+ 
+<p align="left">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/xcode.svg" alt="Xcode" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg" alt="docker" style="max-width:100%;">
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg" alt="bash" style="max-width:100%;">
+ </p> 
+
 
 
 <img alt="github contribution snake" width=100% src="https://github.com/DevLiuSir/DevLiuSir/blob/output/github-contribution-grid-snake.svg" />
