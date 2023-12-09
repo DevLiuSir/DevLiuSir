@@ -111,4 +111,4 @@
 
 
 
-<img alt="github contribution snake" width=100% src="https://github.com/DevLiuSir/DevLiuSir/blob/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution snake" width=100% src="https://github.com/DevLiuSir/DevLiuSir/blob/output/github-contribution-grid-snake-dark.svg" />
