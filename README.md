@@ -1,3 +1,6 @@
+<a align="left">
+<img width="60.5%" src="https://raw.githubusercontent.com/DevLiuSir/DevLiuSir/master/header-devliusir.svg"/>
+
 ### Hi there 👋
 - 🇨🇳 I’m an iOS & macOS & Python & JavaScript Software Engineer in Beijing
 - 👨🏻‍💻 I’m currently learning SwiftUI
@@ -16,15 +19,12 @@
 <a align="left">
 <img alt="GitHub Streak" width="60.5%" src="https://github-readme-streak-stats.herokuapp.com?user=DevLiuSir&hide_border=true&type=svg&bg_color=ffffff"/>
 
-
 <a align="left">
 <img width="60.5%" src="https://profile-counter.glitch.me/DevLiuSir/count.svg"/>
 
 
-
 <!-- 多段 注释， 不会在浏览器中显示。
 在需要的位置输入：<br/> ，也同样实现了换行效果 -->
-
 
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DevLiuSir&padding=10&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&height=180)
 
