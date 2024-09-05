@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello!&animation=twinkling&section=header&textBg=false&strokeWidth=0&fontAlign=50&fontSize=45"/>
+</p>
+
 <a align="left">
 <img width="60.5%" src="https://raw.githubusercontent.com/DevLiuSir/DevLiuSir/master/header-devliusir.svg"/>
 
@@ -25,9 +29,6 @@
 
 <!-- 多段 注释， 不会在浏览器中显示。
 在需要的位置输入：<br/> ，也同样实现了换行效果 -->
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DevLiuSir&padding=10&labels=true&legend=true&tooltip=true&branding=false&show-other-skills=true&height=180)
-
 
 <p align="center">
 <img alt="github stats" src="https://moe-counter.glitch.me/get/@DevLiuSir?theme=gelbooru" />
