@@ -39,14 +39,14 @@
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-Sonoma-4fc08d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/ventura/)
+[![](https://img.shields.io/badge/macOS-Sequoia-4fc08d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/Sequoia/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-F7DF1E?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Xcode-15.0+-2496ED?style=flat-square&logo=apple&logoColor=ffffff.svg)](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
+[![](https://img.shields.io/badge/Xcode-16.0+-2496ED?style=flat-square&logo=apple&logoColor=ffffff.svg)](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
 
 
-[![](https://img.shields.io/badge/iPhone-15%20Pro%20Max-c13584?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/MacBookPro-16%20inch%20M3%20Max-43853d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/iPhone-16%20Pro%20Max-c13584?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/MacBookPro-16%20inch%20M4%20Max-43853d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPad-%2012.9%20inch%20iPad%20Pro-red?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Displays-19%20Pro%20Display%20XDR-9146FF?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/AppleTV-Apple%20TV%204K-purple?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
