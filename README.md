@@ -6,7 +6,7 @@
 <img width="60.5%" src="https://raw.githubusercontent.com/DevLiuSir/DevLiuSir/master/header-devliusir.svg"/>
 
 ### Hi there 👋
-- 🇨🇳 I’m an iOS & macOS & Python & JavaScript Software Engineer in Beijing
+- 🇨🇳 I’m an iOS & macOS & Python & JavaScript Software Engineer in China
 - 👨🏻‍💻 I’m currently learning SwiftUI
 - 📚 I’m currently reading: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 - 🔭 I’m currently working on artificial intelligence, neural network
