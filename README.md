@@ -13,11 +13,11 @@
 
 
 <a align="top">
-<img align="right" width=35.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true&text_color=718096&theme=transparent" />
+<img align="right" width=35.5% src="https://github-readme-stats-angristans-projects.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true&text_color=718096&theme=transparent" />
 
 
 <a align="left">
-<img alt="github stats" width=60.5% src="https://github-readme-stats.vercel.app/api?username=devliusir&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&hide_title=true&hide_border=true&theme=transparent" />
+<img alt="github stats" width=60.5% src="https://github-readme-stats-angristans-projects.vercel.app/api?username=devliusir&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&hide_title=true&hide_border=true&theme=transparent" />
 
 <a align="left">
 <img alt="GitHub Streak" width="60.5%" src="https://github-readme-streak-stats.herokuapp.com?user=DevLiuSir&theme=onedark-duo&hide_border=true&type=svg"/>
