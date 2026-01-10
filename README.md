@@ -13,7 +13,7 @@
 
 
 <a align="top">
-<img align="right" width=35.5% src="https://github-readme-stats-angristans-projects.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=10&hide_border=true&text_color=718096&theme=transparent" />
+<img align="right" width=35.5% src="https://github-readme-stats-angristans-projects.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=20&hide_border=true&text_color=718096&theme=transparent" />
 
 
 <a align="left">
