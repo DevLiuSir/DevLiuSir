@@ -24,7 +24,7 @@
 在需要的位置输入：<br/> ，也同样实现了换行效果 -->
 
 <p align="center">
-<img alt="github stats" src="https://moe-counter.glitch.me/get/@DevLiuSir?theme=gelbooru" />
+<img alt="github stats" src="https://count.getloli.com/get/@DevLiuSir?theme=gelbooru" />
 </p>
 
 
