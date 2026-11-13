@@ -2,44 +2,35 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello!&animation=twinkling&section=header&textBg=false&strokeWidth=0&fontAlign=50&fontSize=45"/>
 </p>
 
-<a align="left">
-<img width="60.5%" src="https://raw.githubusercontent.com/DevLiuSir/DevLiuSir/master/header-devliusir.svg"/>
-
-### Hi there 👋
-- 🇨🇳 I’m an iOS & macOS & Python & JavaScript Software Engineer in China
-- 👨🏻‍💻 I’m currently learning SwiftUI
-- 📚 I’m currently reading: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-- 🔭 I’m currently working on artificial intelligence, neural network
-
-
-<a align="top">
-<img align="right" width=35.5% src="https://github-readme-stats-angristans-projects.vercel.app/api/top-langs/?username=devliusir&hide_title=true&langs_count=20&hide_border=true&text_color=718096&theme=transparent" />
-
-
-<a align="left">
-<img alt="github stats" width=60.5% src="https://github-readme-stats-angristans-projects.vercel.app/api?username=devliusir&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&hide_title=true&hide_border=true&theme=transparent" />
-
-
-<!-- 多段 注释， 不会在浏览器中显示。
-在需要的位置输入：<br/> ，也同样实现了换行效果 -->
-
 <p align="center">
-<img alt="github stats" src="https://count.getloli.com/get/@DevLiuSir?theme=gelbooru" />
-</p>
+<img width="80.5%" src="./header.svg"/>
+
+<!-- 两列布局，2个卡片，无边框 -->
+<img align="left" width=50% alt="github stats" src="https://github-stats-extended.vercel.app/api?username=devliusir&show_icons=true&include_all_commits=true&count_private=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&hide_title=true&hide_border=true&theme=transparent" />
+
+<img align="right" width=45.0% src="https://count.getloli.com/get/@DevLiuSir?theme=gelbooru" />
+
+<!-- 清浮动，防止下面内容跑到这一行里面，必加 -->
+<br clear="both">
+
 
 
 
 
 #### Platform&Tools
+
+<details>
+<summary>Click here to check tools and languages.</summary>
+
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-Sequoia-4fc08d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/Sequoia/)
+[![](https://img.shields.io/badge/macOS-Tahoe-4fc08d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/Sequoia/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-F7DF1E?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Xcode-16.0+-2496ED?style=flat-square&logo=apple&logoColor=ffffff.svg)](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
+[![](https://img.shields.io/badge/Xcode-26.0+-2496ED?style=flat-square&logo=apple&logoColor=ffffff.svg)](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
 
 
 [![](https://img.shields.io/badge/iPhone-16%20Pro%20Max-c13584?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/MacBookPro-16%20inch%20M4%20Max-43853d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/MacBookPro-16%20inch%20M5%20Max-43853d?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPad-%2012.9%20inch%20iPad%20Pro-red?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Displays-19%20Pro%20Display%20XDR-9146FF?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/AppleTV-Apple%20TV%204K-purple?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
@@ -103,6 +94,11 @@
  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg" alt="bash" style="max-width:100%;">
  </p> 
 
+ </details>
 
+
+
+
+ 
 
 <img alt="github contribution snake" width=100% src="https://github.com/DevLiuSir/DevLiuSir/blob/output/github-contribution-grid-snake-dark.svg" />
